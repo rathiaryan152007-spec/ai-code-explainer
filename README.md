@@ -12,3 +12,12 @@ A Python CLI tool powered by the Google Gemini API (gemini-2.5-flash) that analy
 1. **Install dependencies:**
    ```bash
    pip install google-genai
+   ```
+2. Set your Gemini API Key:
+​Windows (CMD): set GEMINI_API_KEY=your_api_key
+​Linux/Mac: export GEMINI_API_KEY=your_api_key
+​3. Run the tool:
+​Analyze a file:
+python main.py test.py
+​Interactive mode:
+python main.py
