@@ -25,3 +25,7 @@ A Python CLI tool powered by the Google Gemini API (gemini-2.5-flash) that analy
    Interactive mode:
    python main.py
    ```
+
+   **Author:** Aryan Rathi
+   **CU ID:** CU26220292
+   **Branch:** AI/ML
