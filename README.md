@@ -1,6 +1,6 @@
 # AI Code Explainer & Reviewer
 
-A Python CLI tool powered by the Google Gemini API (gemini-2.5-flash) that analyzes, explains, and reviews code snippets.
+A Python CLI tool powered by the Google Gemini API (gemini-3.8-flash) that analyzes, explains, and reviews code snippets.
 
 ## Features
 - Direct file analysis via command-line arguments.
